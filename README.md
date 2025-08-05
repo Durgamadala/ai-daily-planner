@@ -1,6 +1,7 @@
 # AI Daily Planner 🧠📅
 
 An AI-powered task planner built with React. Easily manage your daily tasks with features like smart task suggestions, timers, and dark mode.
+🔗 **Live Demo:** [https://incomparable-squirrel-ab3379.netlify.app](https://incomparable-squirrel-ab3379.netlify.app)
 
 ## Features
 - ✅ Add, complete, and delete daily tasks
